@@ -52,5 +52,5 @@ Trained ML models to classify furniture images.
 ---
 
 ## 🌐 Connect with me
-- LinkedIn: [Profile](www.linkedin.com/in/trịnh-xuân-khánh-0b8765365)  
+- LinkedIn: [Profile]([www.linkedin.com/in/trịnh-xuân-khánh-0b8765365](https://www.linkedin.com/in/tr%E1%BB%8Bnh-xu%C3%A2n-kh%C3%A1nh-0b8765365/))  
 - GitHub: [khanhtrinh301103](https://github.com/khanhtrinh301103)  
